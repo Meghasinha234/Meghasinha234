@@ -16,11 +16,11 @@ Backend Systems · Distributed Workflows · Cloud Infrastructure · Reliability 
 
 ### About
 
-I like building backend systems that keep working even when dependencies fail, workflows retry, and production gets messy.
+I enjoy working on systems where correctness is not just about the happy path, but also about what happens when dependencies fail, requests retry, and production behavior becomes unpredictable.
 
-Currently, I work at Oracle Cloud Infrastructure on backend cloud services, lifecycle workflows, observability, and production reliability.
+At Oracle Cloud Infrastructure, I work on backend services, lifecycle workflows, observability, and reliability for cloud platforms.
 
-I am interested in distributed systems, cloud control planes, reliable workflow orchestration, failure handling, and backend platform engineering.
+My current interests are distributed systems, cloud control planes, workflow orchestration, failure recovery, and backend infrastructure.
 
 ---
 
