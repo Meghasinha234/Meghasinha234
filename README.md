@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Megha Sinha</h1>
 
 <p align="center">
-Software Engineer @ Oracle Cloud Infrastructure
+Backend Systems · Distributed Workflows · Cloud Reliability
 <br />
-Backend Systems · Distributed Workflows · Cloud Infrastructure · Reliability Engineering
+Software Engineer @ Oracle Cloud Infrastructure
 </p>
 
 <p align="center">
@@ -14,13 +14,19 @@ Backend Systems · Distributed Workflows · Cloud Infrastructure · Reliability 
 
 ---
 
+<p align="center">
+  <em>Building systems for the non-happy path: retries, failures, recovery, and everything production teaches you.</em>
+</p>
+
+---
+
 ### About
 
-I enjoy working on systems where correctness is not just about the happy path, but also about what happens when dependencies fail, requests retry, and production behavior becomes unpredictable.
+I enjoy working on backend systems where correctness is not just about the happy path, but also about what happens when dependencies fail, requests retry, workflows get delayed, and production behavior becomes unpredictable.
 
-At Oracle Cloud Infrastructure, I work on backend services, lifecycle workflows, observability, and reliability for cloud platforms.
+At Oracle Cloud Infrastructure, I work on backend cloud services involving lifecycle workflows, observability, production debugging, deployment readiness, and reliability improvements.
 
-My current interests are distributed systems, cloud control planes, workflow orchestration, failure recovery, and backend infrastructure.
+My current interests are distributed systems, cloud control planes, workflow orchestration, failure recovery, observability, and backend infrastructure.
 
 ---
 
@@ -58,7 +64,7 @@ My current interests are distributed systems, cloud control planes, workflow orc
 **OpenRouter – Multi-LLM Routing Service**  
 Backend service for routing requests across multiple LLM providers with API key management, usage tracking, and PostgreSQL-backed persistence.
 
-I am working on extending it toward reliability-aware routing with:
+I am extending it toward reliability-aware routing with:
 - provider fallback
 - rate limiting
 - retry policies
