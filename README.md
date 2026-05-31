@@ -1,9 +1,9 @@
-<h1 align="center">Megha Sinha</h1>
+<h1 align="center">Hi, I'm Megha Sinha</h1>
 
 <p align="center">
-Software Engineer @ Oracle Cloud Infrastructure  
-<br/>
-Distributed Systems · Cloud Infrastructure · Backend Platforms · Reliability Engineering
+Software Engineer @ Oracle Cloud Infrastructure
+<br />
+Backend Systems · Distributed Workflows · Cloud Infrastructure · Reliability Engineering
 </p>
 
 <p align="center">
@@ -16,33 +16,44 @@ Distributed Systems · Cloud Infrastructure · Backend Platforms · Reliability 
 
 ### About
 
-I am a software engineer at Oracle Cloud Infrastructure, working on backend cloud services, distributed workflows, observability, and production reliability.
+I like building backend systems that keep working even when dependencies fail, workflows retry, and production gets messy.
 
-My interests are in reliable cloud infrastructure: workflow orchestration, retries, idempotency, failure recovery, observability, and backend platform design.
+Currently, I work at Oracle Cloud Infrastructure on backend cloud services, lifecycle workflows, observability, and production reliability.
+
+I am interested in distributed systems, cloud control planes, reliable workflow orchestration, failure handling, and backend platform engineering.
 
 ---
 
-### Current Focus
+### What I’m focused on
 
 - Reliable distributed workflows for cloud platforms
-- Backend systems and microservice reliability
-- Failure handling, retries, idempotency, and recovery
-- Observability, monitoring, alerting, and production debugging
+- Retries, idempotency, failure recovery, and state transitions
+- Observability for production backend systems
+- Backend system design and microservice reliability
 - Cloud infrastructure and infrastructure as code
 
 ---
 
-### Technical Stack
+### Tech I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Java-Backend-informational?style=flat&logo=openjdk" />
+  <img src="https://img.shields.io/badge/TypeScript-Services-informational?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/SQL-Databases-informational?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Docker-Containers-informational?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-informational?style=flat&logo=terraform" />
+  <img src="https://img.shields.io/badge/Grafana-Observability-informational?style=flat&logo=grafana" />
+</p>
 
 **Languages:** Java, C++, TypeScript, JavaScript, SQL  
 **Backend:** REST APIs, Microservices, Workflow Orchestration, System Design  
-**Cloud & Infrastructure:** Oracle Cloud Infrastructure, Terraform, Docker, CI/CD  
+**Cloud & Infra:** Oracle Cloud Infrastructure, Terraform, Docker, CI/CD  
 **Reliability:** Grafana, Monitoring, Alerting, Runbooks, Production Debugging  
 **Databases & Tools:** PostgreSQL, Prisma, MySQL, Git, Maven, Postman  
 
 ---
 
-### Featured Work
+### Projects
 
 **OpenRouter – Multi-LLM Routing Service**  
 Backend service for routing requests across multiple LLM providers with API key management, usage tracking, and PostgreSQL-backed persistence.
