@@ -1,79 +1,61 @@
-# Hi, I'm Megha Sinha
+<h1 align="center">Megha Sinha</h1>
 
-I am a Software Engineer at Oracle Cloud Infrastructure, working on backend cloud services, distributed workflows, observability, and reliability engineering.
+<p align="center">
+Software Engineer @ Oracle Cloud Infrastructure  
+<br/>
+Distributed Systems · Cloud Infrastructure · Backend Platforms · Reliability Engineering
+</p>
 
-My work involves building and operating production services for subscription lifecycle workflows, cross-region processing, downstream notifications, service reliability, and operational automation.
-
-I am interested in distributed systems, cloud infrastructure, reliable workflow orchestration, observability, and backend platform engineering.
+<p align="center">
+<a href="mailto:meghasinha761@gmail.com">Email</a> ·
+<a href="https://www.linkedin.com/in/megha-sinha-a62170217/">LinkedIn</a> ·
+<a href="https://github.com/Meghasinha234">GitHub</a>
+</p>
 
 ---
 
-## Current Focus
+### About
 
-- Reliable distributed workflows for cloud control planes
+I am a software engineer at Oracle Cloud Infrastructure, working on backend cloud services, distributed workflows, observability, and production reliability.
+
+My interests are in reliable cloud infrastructure: workflow orchestration, retries, idempotency, failure recovery, observability, and backend platform design.
+
+---
+
+### Current Focus
+
+- Reliable distributed workflows for cloud platforms
 - Backend systems and microservice reliability
+- Failure handling, retries, idempotency, and recovery
 - Observability, monitoring, alerting, and production debugging
-- Failure handling, retries, idempotency, and workflow orchestration
 - Cloud infrastructure and infrastructure as code
 
 ---
 
-## Technical Skills
+### Technical Stack
 
-### Languages
-Java · C++ · TypeScript · JavaScript · SQL
-
-### Backend and Systems
-REST APIs · Microservices · Distributed Systems · Workflow Orchestration · System Design · Production Debugging
-
-### Cloud and Infrastructure
-Oracle Cloud Infrastructure · Terraform · Infrastructure as Code · Docker · CI/CD
-
-### Observability and Reliability
-Grafana · Monitoring · Alerting · Runbooks · Reliability Engineering · On-call Operations
-
-### Databases and Tools
-PostgreSQL · Prisma · MySQL · Git · Maven · Postman
+**Languages:** Java, C++, TypeScript, JavaScript, SQL  
+**Backend:** REST APIs, Microservices, Workflow Orchestration, System Design  
+**Cloud & Infrastructure:** Oracle Cloud Infrastructure, Terraform, Docker, CI/CD  
+**Reliability:** Grafana, Monitoring, Alerting, Runbooks, Production Debugging  
+**Databases & Tools:** PostgreSQL, Prisma, MySQL, Git, Maven, Postman  
 
 ---
 
-## Featured Projects
+### Featured Work
 
-### OpenRouter – Reliability-Aware Multi-Provider LLM Gateway
-A backend service for routing requests across multiple LLM providers with API key management and usage tracking.
+**OpenRouter – Multi-LLM Routing Service**  
+Backend service for routing requests across multiple LLM providers with API key management, usage tracking, and PostgreSQL-backed persistence.
 
-Planned reliability extensions:
-- Provider fallback
-- Retry budgets
-- Circuit breakers
-- Rate limiting
-- Latency-aware routing
-- Observability dashboards
-- Failure simulation
+Currently extending it toward reliability-aware routing with provider fallback, rate limiting, retry policies, latency tracking, and observability.
 
-### Workflow Reliability Lab
-A distributed workflow reliability testbed focused on retries, idempotency, failure injection, recovery behavior, and observability for cloud-style backend workflows.
-
-Planned components:
-- Async workflow workers
-- PostgreSQL-backed state transitions
-- Idempotency keys
-- Exponential backoff and retry policies
-- Dead-letter handling
-- OpenTelemetry traces
-- Prometheus/Grafana dashboards
+**Workflow Reliability Lab**  
+A systems project focused on distributed workflow reliability: retries, idempotency, failure injection, state transitions, and recovery behavior in cloud-style backend workflows.
 
 ---
 
-## Background
+### Background
 
 - Software Engineer, Oracle Cloud Infrastructure
 - B.Tech in Computer Science and Engineering, NIT Rourkela
-- Interests: Distributed Systems, Cloud Infrastructure, Backend Platforms, Observability, Reliability Engineering
-
----
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/megha-sinha-a62170217/
-- Email: meghasinha761@gmail.com
+- Interested in distributed systems, cloud infrastructure, backend platforms, and reliability engineering
