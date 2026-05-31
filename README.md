@@ -53,15 +53,18 @@ I am interested in distributed systems, cloud control planes, reliable workflow 
 
 ---
 
-### Projects
+### Featured Project
 
 **OpenRouter – Multi-LLM Routing Service**  
 Backend service for routing requests across multiple LLM providers with API key management, usage tracking, and PostgreSQL-backed persistence.
 
-Currently extending it toward reliability-aware routing with provider fallback, rate limiting, retry policies, latency tracking, and observability.
-
-**Workflow Reliability Lab**  
-A systems project focused on distributed workflow reliability: retries, idempotency, failure injection, state transitions, and recovery behavior in cloud-style backend workflows.
+I am working on extending it toward reliability-aware routing with:
+- provider fallback
+- rate limiting
+- retry policies
+- latency tracking
+- observability
+- failure handling
 
 ---
 
