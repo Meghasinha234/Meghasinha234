@@ -1,15 +1,16 @@
 <h1 align="center">Hi, I'm Megha Sinha</h1>
 
 <p align="center">
-Backend Systems · Distributed Workflows · Cloud Reliability
-<br />
-Software Engineer @ Oracle Cloud Infrastructure
+  Backend Systems · Distributed Workflows · Cloud Reliability
+  <br />
+  Software Engineer @ Aviatrix | ex-Oracle Cloud Infrastructure
 </p>
 
 <p align="center">
-<a href="mailto:meghasinha761@gmail.com">Email</a> ·
-<a href="https://www.linkedin.com/in/megha-sinha-a62170217/">LinkedIn</a> ·
-<a href="https://github.com/Meghasinha234">GitHub</a>
+  <a href="mailto:meghasinha761@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/megha-sinha-a62170217/">LinkedIn</a> ·
+  <a href="https://github.com/Meghasinha234">GitHub</a> ·
+  <a href="https://meghasinha234.github.io/">Portfolio</a>
 </p>
 
 ---
@@ -22,11 +23,13 @@ Software Engineer @ Oracle Cloud Infrastructure
 
 ### About
 
-I enjoy working on backend systems where correctness is not just about the happy path, but also about what happens when dependencies fail, requests retry, workflows get delayed, and production behavior becomes unpredictable.
+I build backend systems focused on correctness when dependencies fail, requests retry, workflows get delayed, and production behavior becomes unpredictable.
 
-At Oracle Cloud Infrastructure, I work on backend cloud services involving lifecycle workflows, observability, production debugging, deployment readiness, and reliability improvements.
+Currently building backend cloud networking solutions at **Aviatrix**. 
 
-My current interests are distributed systems, cloud control planes, workflow orchestration, failure recovery, observability, and backend infrastructure.
+Previously, I spent two years at **Oracle Cloud Infrastructure** engineering asynchronous workflows for subscription lifecycles, resolving complex production bottlenecks, automating recovery pipelines, and eliminating redundant request fanouts.
+
+My engineering approach is defensive: I build to prevent silent failures, handle idempotency, and eliminate race conditions over building simple CRUD apps.
 
 ---
 
@@ -43,39 +46,34 @@ My current interests are distributed systems, cloud control planes, workflow orc
 ### Tech I work with
 
 <p>
-  <img src="https://img.shields.io/badge/Java-Backend-informational?style=flat&logo=openjdk" />
   <img src="https://img.shields.io/badge/TypeScript-Services-informational?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/Java-Backend-informational?style=flat&logo=openjdk" />
   <img src="https://img.shields.io/badge/SQL-Databases-informational?style=flat&logo=postgresql" />
   <img src="https://img.shields.io/badge/Docker-Containers-informational?style=flat&logo=docker" />
   <img src="https://img.shields.io/badge/Terraform-IaC-informational?style=flat&logo=terraform" />
   <img src="https://img.shields.io/badge/Grafana-Observability-informational?style=flat&logo=grafana" />
 </p>
 
-**Languages:** Java, C++, TypeScript, JavaScript, SQL  
-**Backend:** REST APIs, Microservices, Workflow Orchestration, System Design  
+**Languages:** TypeScript, Java, Python, JavaScript, C++, SQL  
+**Backend:** REST APIs, Microservices, Workflow Orchestration, Bun, Elysia  
 **Cloud & Infra:** Oracle Cloud Infrastructure, Terraform, Docker, CI/CD  
 **Reliability:** Grafana, Monitoring, Alerting, Runbooks, Production Debugging  
-**Databases & Tools:** PostgreSQL, Prisma, MySQL, Git, Maven, Postman  
+**Databases & Tools:** PostgreSQL, Prisma, MySQL, Git, MCP, JSON-RPC  
 
 ---
 
-### Featured Project
+### Featured Projects
 
-**OpenRouter – Multi-LLM Routing Service**  
-Backend service for routing requests across multiple LLM providers with API key management, usage tracking, and PostgreSQL-backed persistence.
+**AgentMock – MCP Contract Testing CLI**  
+Engineered a CLI tool to record, replay, and detect breaking schema changes for Model Context Protocol (MCP) tool servers. Built an in-process mock replay server over `stdio` and JSON-RPC, cutting local test latency to <4ms with zero external API costs.
 
-I am extending it toward reliability-aware routing with:
-- provider fallback
-- rate limiting
-- retry policies
-- latency tracking
-- observability
-- failure handling
+**Multi-LLM Gateway Proxy (OpenRouter)**  
+Built a unified chat API routing requests across OpenAI, Claude, and Gemini with PostgreSQL-backed model mappings. Engineered automatic provider failover and bounded retries with error classification, skipping retries for auth errors while transparently retrying transient failures.
 
 ---
 
 ### Background
 
-- Software Engineer, Oracle Cloud Infrastructure
-- B.Tech in Computer Science and Engineering, NIT Rourkela
-- Interested in distributed systems, cloud infrastructure, backend platforms, and reliability engineering
+- **Software Engineer**, Aviatrix (Oct 2026 – Present)
+- **Member of Technical Staff**, Oracle Cloud Infrastructure (Jul 2024 – Aug 2026)
+- **B.Tech in Computer Science and Engineering**, NIT Rourkela (2020 – 2024)
